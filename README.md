@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**JAFFerreira/JAFFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o JAF-Ferreira (Jonathas Ferreira)
 
 Here are some ideas to get you started:
 
